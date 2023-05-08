@@ -4,3 +4,4 @@ def call(){
                    -Dsonar.java.binaries=. \
                    -Dsonar.projectKey=Devops-pro '''
   }
+}
